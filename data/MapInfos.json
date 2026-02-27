@@ -6,5 +6,6 @@ null,
 {"id":4,"expanded":false,"name":"Sala Cultura","order":4,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
 {"id":5,"expanded":false,"name":"Sala Assistenza","order":5,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
 {"id":6,"expanded":false,"name":"Sala Diritti e cooperazione","order":6,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
-{"id":7,"expanded":false,"name":"Sala Ambiente","order":7,"parentId":2,"scrollX":0,"scrollY":0,"quick":false}
+{"id":7,"expanded":false,"name":"Sala Ambiente","order":7,"parentId":2,"scrollX":0,"scrollY":0,"quick":false},
+{"id":8,"expanded":false,"name":"Sala Sport","order":8,"parentId":2,"scrollX":0,"scrollY":0,"quick":false}
 ]
