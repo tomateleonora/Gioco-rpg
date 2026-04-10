@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":411.2,"scrollY":317.6},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":1,"scrollX":396.8,"scrollY":306.4,"quick":false},
+{"id":3,"expanded":true,"name":"Sala Educazione","order":3,"parentId":2,"scrollX":396.8,"scrollY":306.4,"quick":false},
+{"id":4,"expanded":false,"name":"Sala Cultura","order":4,"parentId":2,"scrollX":396.8,"scrollY":306.4,"quick":false},
+{"id":5,"expanded":false,"name":"Sala Assistenza","order":5,"parentId":2,"scrollX":396.8,"scrollY":306.4,"quick":false},
+{"id":6,"expanded":false,"name":"Sala Diritti e cooperazione","order":6,"parentId":2,"scrollX":396.8,"scrollY":306.4,"quick":false},
+{"id":7,"expanded":false,"name":"Sala Ambiente","order":7,"parentId":2,"scrollX":434.4,"scrollY":306.4,"quick":false},
+{"id":8,"expanded":false,"name":"Sala Sport","order":8,"parentId":2,"scrollX":396.8,"scrollY":317.6,"quick":false}
+]
